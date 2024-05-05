@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#imageContainer {
+    margin-top: 20px;
+}
+
+img {
+    max-width: 300px;
+}
